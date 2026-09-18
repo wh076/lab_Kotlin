@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComponentsApp</string>
+    <string name="user_info">Трофимов Михаил ФИТ-241</string>
+    <string name="ok_button">ОК</string>
+</resources>
