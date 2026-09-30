@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Трофимов Михаил Олегович</string>
+    <string name="title">Студент ФИТ-241</string>
+    <string name="phone">+7 (900) 000-00-00</string>
+    <string name="social">@wh076</string>
+    <string name="email">mikhail@example.com</string>
+</resources>
