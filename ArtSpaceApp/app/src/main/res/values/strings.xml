@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="starry_night_title">The Starry Night</string>
+    <string name="starry_night_artist">Vincent van Gogh (1889)</string>
+    <string name="impression_sunrise_title">Impression, Sunrise</string>
+    <string name="impression_sunrise_artist">Claude Monet (1872)</string>
+    <string name="great_wave_title">The Great Wave off Kanagawa</string>
+    <string name="great_wave_artist">Katsushika Hokusai (1831)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
